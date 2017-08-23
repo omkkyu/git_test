@@ -1,0 +1,16 @@
+<html>
+<<<<<<< HEAD
+    <body>
+        <header>
+            <h1>GIT</h1>
+        </header>
+    </body>
+=======
+  <head>
+    <meta charset="UTF-8" /> 
+    <title>GIT ¼ö¾÷</title>
+  </head>
+  <body>
+  </body>
+>>>>>>> d0d280a5b28e052fa9e33f0af12bfd8b6dd516d7
+</html>
